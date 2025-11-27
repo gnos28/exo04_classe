@@ -9,8 +9,9 @@ Votre objectif est de le transformer en code TypeScript robuste et strictement t
 - Node.js installé.
 - Installation des dépendances : `npm install` (si nécessaire, ou juste avoir typescript accessible).
 - Compilation et exécution (pour tester) :
-  - `npx tsc` pour compiler.
-  - `node dist/index.js` pour lancer.
+  - `npm run build` pour compiler.
+  - `npm run start` pour lancer la version compilée.
+  - `npm run dev` pour lancer en mode développement avec rechargement automatique.
 
 ## Objectifs de l'exercice
 
